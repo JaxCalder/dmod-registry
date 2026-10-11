@@ -58,4 +58,6 @@ $include https://raw.githubusercontent.com/choco-technologies/dmvs_js/refs/heads
 $include https://raw.githubusercontent.com/choco-technologies/dmvs_html/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmimg_svg/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmaudio/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmmp3/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/carhmi-demo/refs/heads/main/manifest.dmm
 
