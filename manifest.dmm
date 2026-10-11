@@ -57,4 +57,5 @@ $include https://raw.githubusercontent.com/choco-technologies/dmwm8994/refs/head
 $include https://raw.githubusercontent.com/choco-technologies/dmvs_js/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmvs_html/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmimg_svg/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmaudio/refs/heads/main/manifest.dmm
 
