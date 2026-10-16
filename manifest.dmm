@@ -61,3 +61,4 @@ $include https://raw.githubusercontent.com/choco-technologies/dmaudio/refs/heads
 $include https://raw.githubusercontent.com/choco-technologies/dmmp3/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/carhmi-demo/refs/heads/main/manifest.dmm
 $include https://raw.githubusercontent.com/choco-technologies/dmrng/refs/heads/main/manifest.dmm
+$include https://raw.githubusercontent.com/choco-technologies/dmrtc/refs/heads/main/manifest.dmm
